@@ -10,15 +10,16 @@ You can run squRemote.py with root. This will run a Tkinter GUI with the current
 
 OR
 
-You can run squR.py from the console with root. This doesnot require Tkinter or gksu.
+You can run squR.py from the console with root. This does not require Tkinter or gksu.
 
 Dependencies
 ---
-1. evdev (http://python-evdev.readthedocs.org/en/latest/)
-2. tk (https://wiki.python.org/moin/TkInter)
-3. gksu (http://www.nongnu.org/gksu)
+1. Python 2.7
+2. evdev (http://python-evdev.readthedocs.org/en/latest/)
+3. TkInter (https://wiki.python.org/moin/TkInter)
+4. gksu (http://www.nongnu.org/gksu)
 
-*2 and 3 are optional (read usage)
+*3 and 4 are optional (read usage)
 
 Note
 ---
